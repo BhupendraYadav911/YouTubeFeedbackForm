@@ -80,7 +80,6 @@ const Contact = () => {
           </div>
 
           {/* right side contact form  */}
-
           <form method="POST" className="form" id="form">
             <div className="form-control">
               <label htmlFor="username">Your YouTube Name</label>
